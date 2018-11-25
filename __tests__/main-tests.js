@@ -1,4 +1,4 @@
-describe('Google', () => {
+describe('Blazor', () => {
     beforeAll(async () => {
         await page.goto('http:localhost:5000', { waitUntil : 'networkidle0' } );
     });
