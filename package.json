@@ -1,8 +1,6 @@
 {
   "name": "blazorexample",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
   "dependencies": {},
   "devDependencies": {
     "puppeteer": "^1.10.0",
@@ -12,14 +10,5 @@
   "scripts": {
     "test": "jest test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DanielOliver/BlazorExample.git"
-  },
-  "author": "Daniel <danieloliversoftware@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/DanielOliver/BlazorExample/issues"
-  },
-  "homepage": "https://github.com/DanielOliver/BlazorExample#readme"
+  "license": "MIT"
 }
